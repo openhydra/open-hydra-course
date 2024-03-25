@@ -14,3 +14,4 @@
 
 * 一般不出意外的情况，每周五 18:00 点我们会开始对课程进行打包，打包好的带有课程 openhydra iso 镜像会以 `ubuntu-[版本]-[日期]-live-server-amd64.iso-course.iso` 结尾来标记这个 iso 是带有课程，反之则代表改 iso 不带有课程
 * 目前课程打包好的镜像目前只支持 x86_64 架构， arm 架构的镜像会在后续的版本中支持。
+* 下载地址为 [链接](https://pan.baidu.com/s/1GsHhDEnRMBBUrQXpusmtSA?pwd=uc2e) 提取码: uc2e
