@@ -18,6 +18,10 @@
 
 - xiezuoru@gmail.com--public
 
+## 课程体验地址
+
+https://www.openinnolab.org.cn/pjlab/project?id=6600e328feaed74d74f09bdf
+
 ## 附：XEdu简介
 
 XEdu全称为OpenXLabEdu，是基于OpenXLab开发的教育版，也是为中小学生设计的一套AI学习工具。
