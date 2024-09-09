@@ -73,12 +73,7 @@
 - **目的**：保持您的Fork仓库与上游仓库同步。
 - **步骤**：
   - 为了保持您的Fork仓库与上游仓库同步，您需要定期从上游仓库拉取更新。
-    ```sh
-    git remote add upstream https://github.com/原始仓库用户名/仓库名.git
-    git fetch upstream
-    git checkout main
-    git merge upstream/main
-    git push origin main
-    ```
+  - 登录自己的GitHub账户，找到您Fork的仓库。
+  - 点击`Sync fork`按钮同步最新的上游仓库。
 
 通过以上步骤，您就可以在GitHub上有效地参与OpenHydra开源人工智能课程项目的协作。希望这些信息对您有所帮助！如果有任何问题，随时欢迎提问。
